@@ -25,19 +25,16 @@ Gosto de criar ferramentas simples, práticas e bem organizadas, além de estuda
 
 ## 📌 Projetos em destaque
 
-- 🔢 [**calculadora**](https://github.com/franciscoclavero/calculadora)  
+- 🔢 [**Calculadora**](https://github.com/franciscoclavero/calculadora)  
   Calculadora online feita com **React + TypeScript**, simula uma calculadora real.
 
-- 🐱 [**pokedex**](https://github.com/franciscoclavero/pokedex)  
-  Lista de Pokémon com busca e filtros. Front-end moderno usando **Next.js** e PokéAPI.
+- 🐱 [**E-mail**](https://github.com/franciscoclavero/email)  
+  Uma aplicação em **Node.js** com **TypeScript** que permite ler e-mails da caixa de entrada e marcá-los como lidos.
 
-- 👤 [**user-table**](https://github.com/franciscoclavero/user-table)  
+- 👤 [**Cadastro de Usuários**](https://github.com/franciscoclavero/user-table)  
   Interface para cadastro e listagem de usuários. Projeto React com componentes reutilizáveis.
 
-- 🔧 [**cad-user**](https://github.com/franciscoclavero/cad-user)  
-  API REST feita com **Node.js + Express**, conecta com o `user-table`.
-
-- 📅 [**calendar**](https://github.com/franciscoclavero/calendar)  
+- 📅 [**Calendario**](https://github.com/franciscoclavero/calendar)  
   Interface de calendário funcional, boa prática de manipulação de datas e layout.
 
 ---
@@ -45,7 +42,7 @@ Gosto de criar ferramentas simples, práticas e bem organizadas, além de estuda
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-clavero)  
-✉️ franciscoclavero@gmail.com
+✉️ franciscogkoclavero@gmail.com
 
 ---
 
